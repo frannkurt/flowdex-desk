@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="shots/banner.svg" alt="Flowdex Desk — AI research terminal" width="100%">
+</p>
+
 # Flowdex Desk
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
